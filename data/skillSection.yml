@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Here's where I can help
+
+  I have a strong background in data science, machine learning, and business problem-solving. I mainly use R. 
+
+image: images/hero/pic_FM.jpg
+
+skill:
+  - title: R
+    percent: 90
+  - title: Shiny Apps
+    percent: 90
+  - title: R Markdown/Flexdashboard
+    percent: 90
+  - title: SQL
+    percent: 60

@@ -1,0 +1,17 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## Who is Francesc?
+
+  Francesc Montané is a business-focused Data Scientist with over 8+ years of experience developing data products to create value for companies.
+content: >
+  ### I design and build data science products.
+  
+  My area of focus is applying data science to business to create value for companies. I enjoy learning, and making better decisions with data.
+button1Name: LinkedIn
+button2Name: Download CV
+button1Target: https://www.linkedin.com/in/francesc-montan%C3%A9-1ab8962a/
+button2Target: "/cv/cv_ds_FM.pdf"
+image: images/hero/pic_FM.jpg
+imageMaskPosition: 70px 0px

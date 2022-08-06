@@ -1,0 +1,114 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Experience & Education
+
+  Over 8+ years of experience working as Data Scientist.
+
+buttonName: "Download Resume PDF"
+buttonTarget: "/cv/cv_ds_FM.pdf"
+
+tab1Name: Experience
+tab2Name: Education
+tab1Target: experience
+tab2Target: education
+
+
+experience:
+  - content: >
+  
+      ### Data Scientist
+      
+      #### Ineco (Madrid, Spain)
+      
+      - Build a Shiny web application using time series forecasting for the Ministry of Justice to assess the impact of the Covid-19 pandemic on the number of communications in the Ministry.
+      
+      - Designed and created a report automation using R to regularly inform the Minister of Justice, resulting in more than 50.000€ per year savings in working hours. 
+      
+      
+    time: May 2018-Present
+  - content: >
+      ### Data Scientist 
+      
+      #### Innovahead (Madrid, Spain)
+
+      - Applied time series forecasting in R to predict sales.
+    time: August 2017-April 2018
+  - content: >
+      ### Data Scientist
+
+      #### University of Arizona (USA)
+
+      - Performed complex data analysis to evaluate a model in 9 forest sites in the USA. Discovered key structural and parameterization deficits to improve the model. Published an article(available [here](https://gmd.copernicus.org/articles/10/3499/2017/)), with over 1000 downloads, in a scientific journal.
+      
+    time: December 2013-March 2017
+  
+  - content: >
+      ### Postdoctoral Scientist
+
+      #### University of Oklahoma (USA), Michigan State University (USA), University of Toronto (Canada)
+      
+      - Performed modeling projects, including NASA’s Terrestrial Ecology Program funded project “MsTMIP Phase I”.
+      
+    time: January 2011-December 2013
+    
+  - content: >
+      ### Research Scientist
+
+      #### Forest Sciences Center of Catalonia (Spain)
+      
+      - Completed my PhD after being awarded three competitive Fellowships, including two Fellowships in Canada to implement spatial data analysis and spatial models using R. Wrote and published 6 articles in high-impact factor international scientific journals.
+      
+    time: May 2004-December 2010
+      
+      
+education:
+  - content: >
+      #### 5 Course R-Track 
+      
+      ##### Data Science for Business Part 1, Data Science for Business Part 2, Shiny Web Applications Part 1, Shiny Web Applications Part 2, High Performance Time Series
+      
+      Business Science University
+      
+    time: 2022
+    
+  - content: >
+      #### Python for Data Science Automation 
+      
+      Business Science University
+      
+    time: 2022
+  
+  - content: >
+      #### Professional Data Analyst Certification 
+      
+      DataCamp
+      
+    time: 2022
+    
+  - content: >
+      #### Professional Data Scientist Certification 
+      
+      DataCamp
+      
+    time: 2021
+    
+  - content: >
+      #### PhD
+
+      University of Barcelona
+      
+    time: 2010
+  - content: >
+      #### Forest Engineering
+
+      University of Lleida
+    
+    time: 2003
+  - content: >
+      #### Forest Technical Engineering
+
+      University of Lleida
+    time: 2000
+  

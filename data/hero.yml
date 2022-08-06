@@ -1,0 +1,13 @@
+---
+enable: true
+topTitle: Data Scientist
+content: >
+  # Hi I'm Francesc
+
+  [Francesc Montané](https://www.linkedin.com/in/francesc-montan%C3%A9-1ab8962a/) is a Data Scientist.
+buttonName: Contact Francesc
+buttonIcon: 'fa fa-envelope'
+buttonURL: "#contact"
+image: images/hero/pic_FM.jpg
+videoThumb: images/hero/data-science.gif
+videoURL: 
