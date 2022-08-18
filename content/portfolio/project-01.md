@@ -6,7 +6,7 @@ project: '[View Forecast Dashboard](https://fmontane.shinyapps.io/euro_stoxx_50_
 shortDescription: This application helps an Investment Company to increase the profits identifying trends in the "Euro Stoxx 50" stocks, the 50 leading stocks in the Eurozone.
 solution: This application helps an Investment Company to increase the profits identifying trends in the "Euro Stoxx 50" stocks using Machine Learning.
 thumbnail: images/portfolio/app_euro_stoxx_50_forecast.png
-title: Stocks Forecast Application
+title: Stocks Forecasting Application
 ---
 
 
@@ -19,10 +19,9 @@ title: Stocks Forecast Application
 
 ✅ HTML and CSS
 
-✅ Stocks Forecast Using Machine Learning (XGBoost)
+✅ Stocks Forecasting Using Machine Learning (XGBoost)
 
-✅  Forecast optimized for performance (forecast was too slow in the first app prototype)
-
+✅ Forecasting optimized for app performance (forecasting was too slow in the first app prototype)
 
 
 
