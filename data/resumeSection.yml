@@ -4,7 +4,7 @@ topTitle: My Resume
 title: >
   ## My Experience & Education
 
-  Over 8+ years of experience working as Data Scientist.
+  Over 5+ years of experience working as Data Scientist.
 
 buttonName: "Download Resume PDF"
 buttonTarget: "/cv/cv_ds_FM.pdf"
@@ -36,7 +36,7 @@ experience:
       - Applied time series forecasting in R to predict sales.
     time: August 2017-April 2018
   - content: >
-      ### Data Scientist
+      ### Postdoctoral Scientist
 
       #### University of Arizona (USA)
 
@@ -65,18 +65,26 @@ experience:
       
 education:
   - content: >
+      #### Certified Data Scientist for Business
+      
+      ##### Proud First-Ever Certified Data Scientist for Business by Business Science (August 2022)
+      
+      Business Science
+      
+    time: 2022
+  - content: >
       #### 5 Course R-Track 
       
       ##### Data Science for Business Part 1, Data Science for Business Part 2, Shiny Web Applications Part 1, Shiny Web Applications Part 2, High Performance Time Series
       
-      Business Science University
+      Business Science
       
     time: 2022
     
   - content: >
       #### Python for Data Science Automation 
       
-      Business Science University
+      Business Science
       
     time: 2022
   

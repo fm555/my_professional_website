@@ -1,22 +1,25 @@
 ---
-enable: false
+enable: true
 topTitle: Testimonials
 title: >
-  ## What Do Students Think of My Courses?
+  ## What Do Others Think of Me?
 
 testimonial:
-  - name: Justin Kurland, PhD
-    title: Lead Data Scientist, Northwestern Mutual 
-    image: "/images/testimonial/justin.jpg"
-    comment: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+  - name: Matt Dancho
+    title: Data Scientist, Founder of Business Science, Lead Educator at Business Science University
+    image: "/images/testimonial/matt.jpg"
+    comment: "It is my pleasure to proudly recommend Francesc Montané for a data science position. 
+
+My name is Matt Dancho, Founder of Business Science and Lead Educator at Business Science University. I had the pleasure of working with Francesc over the past 6-months as part of an accelerated data science program that has focused on applying data science to business.
+
+Francesc has shown a high aptitude for data science, which has been demonstrated in the two independent projects that he successfully completed as part of our program.
+
+The first independent project is a stock analysis and forecasting application that has demonstrated the use of several high-performance tools including R Shiny, Modeltime (Forecasting) and Timetk (Time Series Analysis).
+
+The second application is a medical insurance cost prediction application that predicts medical costs between smokers and nonsmokers. The application uses R Shiny and Machine Learning to make cost predictions based on user inputs such as Smoker (Y/N), BMI, Age, etc.
+
+I am confident that Francesc will be an excellent fit for data science positions that involve challenging business problems and a desire to make better business decisions. 
+
+Feel free to contact me at mdancho@business-science.io if you have any questions or would like me to further discuss Francesc’s achievements."
     star: 5
-  - name: Chris Selig
-    title: Data Scientist
-    image: "/images/testimonial/chris.jpg"
-    comment: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
-    star: 5
-  - name: Mohana Krishna Chittoor
-    title: Lead Data Scientist, Money View
-    image: "/images/testimonial/mohana.jpg"
-    comment: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
-    star: 5
+  

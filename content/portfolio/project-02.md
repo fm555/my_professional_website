@@ -6,7 +6,7 @@ project: '[View Dashboard](https://fmontane.shinyapps.io/medical_insurance_cost_
 shortDescription: This application helps a Medical Insurance company to increase the profits by determining the medical costs of the users using Machine Learning.
 solution: This application helps a Medical Insurance company to increase the profits by determining the medical costs of the users using Machine Learning. 
 thumbnail: images/portfolio/app_medical_costs_prediction.png
-title: Medical Insurance Costs Prediction App
+title: Medical Insurance Costs Prediction Application
 ---
 
 

@@ -38,11 +38,8 @@ params:
   logo: images/site-navigation/logo_francesc.png
   social:
     - icon: fa-linkedin-square
-      url: https://www.linkedin.com/
+      url: https://www.linkedin.com/in/francescmontane/
       weight: 1
-    - icon: fa-youtube-square
-      url: https://www.youtube.com/
-      weight: 2
     - icon: fa-twitter-square
-      url: https://twitter.com/
-      weight: 3
+      url: https://twitter.com/Montane_F
+      weight: 2
