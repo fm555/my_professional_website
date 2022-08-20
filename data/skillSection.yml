@@ -4,7 +4,7 @@ topTitle: My Skills
 content: >
   ## Here's where I can help
 
-  I have a strong background in data science, machine learning, and business problem-solving. I mainly use R. 
+  I have a strong background in Data Science, Machine Learning, and Business Problem-Solving. I mainly use R. 
 
 image: images/hero/pic_FM.jpg
 
@@ -12,6 +12,10 @@ skill:
   - title: R
     percent: 90
   - title: R Shiny Apps
+    percent: 90
+  - title: Machine Learning
+    percent: 90
+  - title: Time Series Forecasting
     percent: 90
   - title: R Markdown/Flexdashboard
     percent: 90
