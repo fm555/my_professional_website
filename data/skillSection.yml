@@ -4,7 +4,7 @@ topTitle: My Skills
 content: >
   ## Here's where I can help
 
-  I have a strong background in Data Science, Machine Learning, and Business Problem-Solving. I mainly use R. 
+  I have a strong background in Data Science, Large Language Models (LLMs), Generative AI, Machine Learning, and Business Problem-Solving. I mainly use Python and R. 
 
 image: images/hero/pic_FM.jpg
 
@@ -14,6 +14,8 @@ skill:
   - title: Large Language Models (LLMs)
     percent: 90
   - title: Generative AI
+    percent: 90
+  - title: Streamlit
     percent: 90
   - title: R
     percent: 90
