@@ -9,6 +9,12 @@ content: >
 image: images/hero/pic_FM.jpg
 
 skill:
+  - title: Python
+    percent: 90
+  - title: Large Language Models (LLMs)
+    percent: 90
+  - title: Generative AI
+    percent: 90
   - title: R
     percent: 90
   - title: R Shiny Apps
