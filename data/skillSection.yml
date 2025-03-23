@@ -29,8 +29,6 @@ skill:
     percent: 90
   - title: tidyverse
     percent: 90
-  - title: ggplot2
-    percent: 90
   - title: R Markdown/Flexdashboard
     percent: 90
   - title: SQL
