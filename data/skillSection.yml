@@ -27,7 +27,7 @@ skill:
     percent: 90
   - title: Time Series Forecasting
     percent: 90
-  - title: Tidyverse
+  - title: tidyverse
     percent: 90
   - title: ggplot2
     percent: 90
