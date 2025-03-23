@@ -23,7 +23,13 @@ skill:
     percent: 90
   - title: Machine Learning
     percent: 90
+  - title: H2O Automatic Machine Learning
+    percent: 90
   - title: Time Series Forecasting
+    percent: 90
+  - title: Tidyverse
+    percent: 90
+  - title: ggplot2
     percent: 90
   - title: R Markdown/Flexdashboard
     percent: 90
